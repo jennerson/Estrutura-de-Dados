@@ -14,7 +14,14 @@
 
 int main(){
 
-	//Exerc�cio de Fila, slides 27 e 28.
+	//Exercício de Fila, slides 27 e 28.
+	
+	//Implementar os métodos listados acima para lista estática
+	
+	/*
+	Característica: Ponteiros para o começo e fim da fila
+	com variável indicando o tamanho da fila.
+	*/
 	
 	return 0;
 }
